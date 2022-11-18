@@ -1,0 +1,23 @@
+version: '3.8'
+services:  
+  database:
+    container_name: accord_database
+    image: mongo:5-focal
+    ports: [27017:27017]
+    volumes: [accord:/data/db]
+    restart: unless-stopped
+  backend:
+    container_name: accord_backend
+    depends_on: [database]
+    build: ./backend
+    ports: [3000:3000]
+    env_file: [./backend/.env]
+    volumes:
+      - ./backend/src:/app/src
+      - ./backend/assets:/app/assets
+      - ./backend/logs:/app/logs
+      - ./backend/keys:/app/keys
+    entrypoint: npm run start:prod
+    restart: unless-stopped
+volumes:
+  accord:
