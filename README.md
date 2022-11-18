@@ -1,93 +1,72 @@
+<!--
+                                _     _                     _       _   _          _                               _    
+     /\                        | |   | |                   | |     | \ | |        | |                             | |   
+    /  \     _ __ ___     ___  | |_  | |__    _   _   ___  | |_    |  \| |   ___  | |_  __      __   ___    _ __  | | __
+   / /\ \   | '_ ` _ \   / _ \ | __| | '_ \  | | | | / __| | __|   | . ` |  / _ \ | __| \ \ /\ / /  / _ \  | '__| | |/ /
+  / ____ \  | | | | | | |  __/ | |_  | | | | | |_| | \__ \ | |_    | |\  | |  __/ | |_   \ V  V /  | (_) | | |    |   < 
+ /_/    \_\ |_| |_| |_|  \___|  \__| |_| |_|  \__, | |___/  \__|   |_| \_|  \___|  \__|   \_/\_/    \___/  |_|    |_|\_\
+                                               __/ |                                                                    
+                                              |___/                                                                     
+-->
+<!-- The font is called Big, if you are wondering -->
 <div align="center">
-  <br />
-  <p>
-  <a href="https://ibb.co/9gXYTYQ"><img src="https://i.ibb.co/54Dc8cb/Discordclone.jpg" width="546" alt="Discordclone" border="0"></a>
-  </p>
-  <br />
-  <p>
-    <a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://img.shields.io/npm/v/discord.js.svg?maxAge=3600" alt="NPM version" /></a>
-    <a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://github.com/discordjs/discord.js/workflows/Testing/badge.svg" alt="Build status" /></a>
-    <a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://img.shields.io/github/languages/code-size/arihant-jain-09/discord-clone" alt="Code Size" /></a>
-<a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://img.shields.io/github/repo-size/arihant-jain-09/discord-clone" alt="Build status" /></a>
-<a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://tokei.rs/b1/github/arihant-jain-09/discord-clone?category=code" alt="Total Code lines" /></a>
-<a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://tokei.rs/b1/github/arihant-jain-09/discord-clone?category=files" alt="total code files" /></a>
-<a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://tokei.rs/b1/github/arihant-jain-09/discord-clone?category=lines" alt="total number of lines" /></a>
-  </p> 
+         
+<img src="https://socialify.git.ci/amethystnetwork-dev/Incognito/image?description=1&descriptionEditable=Access%20the%20world%20wide%20web&font=Inter&forks=1&issues=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Famethystnetwork-dev%2FIncognito%2Fmain%2Fstatic%2Findex.svg&name=1&owner=1&pattern=Solid&stargazers=1&theme=Light" alt="Incognito" width="640" height="320" />
+
+<a href="" alt="Made with NodeJS"><img src="https://img.shields.io/badge/Made%20with-Node.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a> 
+<a href="https://github.com/amethystnetwork-dev/Incognito/graphs/contributors/" alt=""><img src="https://img.shields.io/github/contributors/amethystnetwork-dev/Incognito?style=for-the-badge"></a>
+
 </div>
 
-## Technologies
-
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
-[![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09)
-[![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09)
-[![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) [![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) [![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
-
-## Screenshots
-
 <div align="center">
-	<a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://i.ibb.co/hR5f1vQ/2021-05-14-15-39-57-Discord-Your-Place-to-Talk-and-Hang-Out.png" alt="screenshot" /></a>
+    <h2>Get Started</h2>
+    <a>To get started, press one of the buttons below to deploy Incognito</a>
+    <br>
+    <br>
+    <a href="https://render.com/deploy?repo=https://github.com/amethystnetwork-dev/Incognito"><img height="30px" src="https://img.shields.io/badge/render-4f65f1.svg?style=for-the-badge&logo=render&logoColor=46e3b7"><img></a>
+    <a href="https://amethystnetwork-dev.github.io/utils/deploy/heroku?repo=Incognito"><img height="30px" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"><img></a>
+    <a href="https://amethystnetwork-dev.github.io/utils/deploy/replit?repo=Incognito"><img height="30px" src="https://amethystnetwork-dev.github.io/assets/replit.svg"><img></a>
+    <a href="https://railway.app/new/template/TNmjSs?referralCode=8zUUBB"><img height="30px" src="https://img.shields.io/badge/Railway-%234f0599.svg?style=for-the-badge&logo=railway&logoColor=white"><img></a>
+    <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/amethystnetwork-dev/Incognito&branch=main&name=incognito"><img height="30px" src="https://img.shields.io/badge/koyeb-121212.svg?style=for-the-badge&logo=koyeb&logoColor=87fcc4"><img></a>
 </div>
 
-## Table of contents
+## Discord Server
 
-- [About](#about)
-- [Installation](#installation)
-- [Links](#links)
-- [Deployed](#Deployed)
-- [Features](#Features)
-- [Website Score](#Websitescore)
-- [Contribution](#Contribution)
+Press the join button to join the server:
 
-## About
+[![Join us on Discord](https://invidget.switchblade.xyz/J3VPy5Vy8x?theme=light)](https://discord.gg/J3VPy5Vy8x)
 
-A clone of Discord with features like realtime chat app, roles, file sharing, servers...etc,
-- React is used along with Redux to power front-end.
-- Redux to manage state along with Redux Saga.
-- React Routing with Error handling and Discord Loading between pages.
-- Firebase is used for authentication and firestore to store messages, users and servers.
-- Material UI is used along with SASS with a little of styled components for UI.
+## Overview
 
-## Installation
-```js
-#install dependencies
-$ npm install
+- [Features](#features)
+- [FAQ](#faq)
+- [More](#more)
+- [Credits](#credits)
 
-build for production and launch server
-$ npm run build
-$ npm run start
-```
-
-## Links
-
-- [Website](https://arihant-jain-09.github.io/discord-clone/)
-- [GitHub](https://github.com/arihant-jain-09/discord-clone)
-
-## Deployed
-
-- [GitHub](https://arihant-jain-09.github.io/discord-clone/)
 
 ## Features
--   Real time messaging 
--   Loads User Data upon login (Servers, Channels, Roles)
--   Loading logo of Discord between page renderings
--   Creation and Joining Servers
--   Creation of Channels in a Server
--   Server Settings (Change name and delete)
--   Channel Settings (Change name and delete)
--   Reply to messages
--   Upload and send images, audio files
--   Auto render video from links
--   Timestamps for messages
--   Create new Roles unique to each server
 
-## Contribution
-Contributions are always Welcome...
+- Ultraviolet
+- Nice game library
+- Tab Cloaks
+- about:blank cloak
 
--   Fork the repository
--   Improve current program by
-    -   improving functionality
-    -   adding new feature
-    -   bug fixes
--   Push your work and Create a Pull Request
+## FAQ
 
+**How can I get official Incognito domains?**
 
+You should join the official Titanium Network Discord for official links
+
+[![Titanium Network Discord](https://invidget.switchblade.xyz/unblock?theme=light)](https://discord.gg/unblock)
+
+**Who is this repo for?**
+
+This repo is for people that want a easy way to deploy Incognito to cloud hosting services like Railway. If you just want to use Incognito and not deploy it, I recommend you get a official Incognito domain (Check above for how to do so)
+
+**My question is not answered**
+
+Because we can't answer every question here, you may want to check the [wiki](https://github.com/amethystnetwork-dev/Incognito/wiki). If you still have questions, you might want to join our Discord [#discord-server (link)](#discord-server)
+
+## Credits
+
+[Caracal.js](https://github.com/caracal-js) - Creator of Incognito
