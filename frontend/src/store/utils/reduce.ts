@@ -1,1 +1,0 @@
-export const byMax = (k: string) => (acc, val) => (acc < val[k]) ? acc : val;

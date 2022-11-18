@@ -1,95 +1,93 @@
-# Accord - Like Discord but cooler 😎.
+<div align="center">
+  <br />
+  <p>
+  <a href="https://ibb.co/9gXYTYQ"><img src="https://i.ibb.co/54Dc8cb/Discordclone.jpg" width="546" alt="Discordclone" border="0"></a>
+  </p>
+  <br />
+  <p>
+    <a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://img.shields.io/npm/v/discord.js.svg?maxAge=3600" alt="NPM version" /></a>
+    <a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://github.com/discordjs/discord.js/workflows/Testing/badge.svg" alt="Build status" /></a>
+    <a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://img.shields.io/github/languages/code-size/arihant-jain-09/discord-clone" alt="Code Size" /></a>
+<a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://img.shields.io/github/repo-size/arihant-jain-09/discord-clone" alt="Build status" /></a>
+<a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://tokei.rs/b1/github/arihant-jain-09/discord-clone?category=code" alt="Total Code lines" /></a>
+<a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://tokei.rs/b1/github/arihant-jain-09/discord-clone?category=files" alt="total code files" /></a>
+<a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://tokei.rs/b1/github/arihant-jain-09/discord-clone?category=lines" alt="total number of lines" /></a>
+  </p> 
+</div>
 
-> Built with React, Redux, and Node.js.
+## Technologies
 
-Accord is an app, similar to Discord, but cooler.
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
+[![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09)
+[![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09)
+[![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) [![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) [![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/arihant-jain-09)](https://github.com/arihant-jain-09) 
 
-**Please star this repo to support development.**
+## Screenshots
 
-<a href="https://ibb.co/kgndDwd"><img src="https://i.ibb.co/N6h4NJ4/Screenshot-from-2021-08-31-16-09-41.png" alt="Screenshot-from-2021-08-31-16-09-41" border="0" /></a>
-<a href="https://ibb.co/st2q2B0"><img src="https://i.ibb.co/fQ2H2ch/Screenshot-from-2021-08-30-11-55-01.png" alt="Screenshot-from-2021-08-30-11-55-01" border="0" /></a>
-<a href="https://ibb.co/SydPgTY"><img src="https://i.ibb.co/qjWd8Gq/Screenshot-from-2021-08-30-13-30-43.png" alt="Screenshot-from-2021-08-30-13-30-43" border="0" /></a>
+<div align="center">
+	<a href="https://github.com/arihant-jain-09/discord-clone"><img src="https://i.ibb.co/hR5f1vQ/2021-05-14-15-39-57-Discord-Your-Place-to-Talk-and-Hang-Out.png" alt="screenshot" /></a>
+</div>
 
-> Want more stable commits? [Use the stable branch](/tree/v2-stable).
+## Table of contents
 
----
+- [About](#about)
+- [Installation](#installation)
+- [Links](#links)
+- [Deployed](#Deployed)
+- [Features](#Features)
+- [Website Score](#Websitescore)
+- [Contribution](#Contribution)
 
-## Setup
+## About
 
-1. Clone the repo.
-2. Generate SSH keys.
-   From app folder:
-   ```
-   mkdir -p backend/keys
-   ssh-keygen -t rsa -b 2048 -m PEM -f backend/keys/jwt
-   ```
-3. Install npm packages.
-   From app folder:
-   ```
-   cd frontend
-   npm i
-   cd ../backend
-   npm i
-   ```
-4. Configure `backend/.env.example` and rename it to `.env`
+A clone of Discord with features like realtime chat app, roles, file sharing, servers...etc,
+- React is used along with Redux to power front-end.
+- Redux to manage state along with Redux Saga.
+- React Routing with Error handling and Discord Loading between pages.
+- Firebase is used for authentication and firestore to store messages, users and servers.
+- Material UI is used along with SASS with a little of styled components for UI.
 
----
+## Installation
+```js
+#install dependencies
+$ npm install
+
+build for production and launch server
+$ npm run build
+$ npm run start
+```
+
+## Links
+
+- [Website](https://arihant-jain-09.github.io/discord-clone/)
+- [GitHub](https://github.com/arihant-jain-09/discord-clone)
+
+## Deployed
+
+- [GitHub](https://arihant-jain-09.github.io/discord-clone/)
 
 ## Features
+-   Real time messaging 
+-   Loads User Data upon login (Servers, Channels, Roles)
+-   Loading logo of Discord between page renderings
+-   Creation and Joining Servers
+-   Creation of Channels in a Server
+-   Server Settings (Change name and delete)
+-   Channel Settings (Change name and delete)
+-   Reply to messages
+-   Upload and send images, audio files
+-   Auto render video from links
+-   Timestamps for messages
+-   Create new Roles unique to each server
 
-- **Server Channels**
-  - Create channels
-  - Delete channels
-- **Message Management**
-  - Server owners can delete any message
-  - Message author can delete and edit their own messages
-- **Member Management**
-  - Kick members as the server owner
-  - Easily leave the server by right clicking the server
-  - Join servers with an invite code
-- **Server Management**
-  - Create servers as you would in Discord
-  - Edit server name, and icon URL in the server settings
-  - Delete your server in the server settings
-- **User Management**
-  - Manage your account by clicking the settings icon
-  - Change your username, and avatar
-  - Delete your user and prevent it from being used to login
-- **and more** (of course)
+## Contribution
+Contributions are always Welcome...
 
-> Want a more basic version, that's more like Discord?
-> https://github.com/codea-live/dclone
+-   Fork the repository
+-   Improve current program by
+    -   improving functionality
+    -   adding new feature
+    -   bug fixes
+-   Push your work and Create a Pull Request
 
----
 
-`backend/.env`
-(dev with Docker)
-
-```
-EMAIL_ADDRESS="...@gmail.com"
-EMAIL_PASSWORD="..."
-MONGO_URI="mongodb://database/accord"
-NODE_ENV="dev"
-PORT=3000
-WEBSITE_URL="http://localhost:4200"
-```
-
-`backend/test/.env`
-(test without Docker)
-
-```
-API_URL="http://localhost:3001/api"
-EMAIL_ADDRESS="...@gmail.com"
-EMAIL_PASSWORD="..."
-MONGO_URI="mongodb://localhost/accord-test"
-NODE_ENV="dev"
-PORT=3001
-ROOT_ENDPOINT="http://localhost:3001"
-WEBSITE_URL="http://localhost:4200"
-```
-
----
-
-### Further Info
-
-- Looking for a full Discord API Clone? Check out [fosscord](https://github.com/fosscord/fosscord).
